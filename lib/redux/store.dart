@@ -13,7 +13,7 @@ class AppState {
   }
 
   AppState.initial() {
-    this.km = "0";
-    this.miles = "0";
+    km = "0";
+    miles = "0";
   }
 }
